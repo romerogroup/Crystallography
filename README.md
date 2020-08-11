@@ -1,2 +1,2 @@
 # Crystallography
-Jupyter Notebook Crash Coarse for crystallography
+Jupyter Notebook Crash Course for crystallography
